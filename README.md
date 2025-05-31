@@ -4,19 +4,6 @@ I’m a **learner** and aspiring **Full-Stack Developer** currently in my final 
 
 ---
 
-## 🌱 What I'm Learning
-
-I’m currently diving deep into the **MERN stack** and continuously improving my skills in:
-
-- **MongoDB**: Database management
-- **Express.js**: Building back-end APIs
-- **React.js**: Crafting dynamic and responsive front-end applications
-- **Node.js**: Building scalable server-side applications
-
-Additionally, I’m gaining hands-on experience with **TailwindCSS** for beautiful, responsive designs, and **WordPress** for building content management systems (CMS).
-
----
-
 ## 🚀 Technologies & Tools I Use
 
 ### **Frontend:**
