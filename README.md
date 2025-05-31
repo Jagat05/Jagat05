@@ -7,7 +7,7 @@ I’m a **learner** and aspiring **Full-Stack Developer** currently in my final 
 ## 🚀 Technologies & Tools I Use
 
 ### **Frontend:**
-- HTML5, CSS3, TailwindCSS, JavaScript, React.js
+- HTML5, CSS3, TailwindCSS,Bootstrap, JavaScript, React.js
 
 ### **Backend:**
 - PHP, Node.js, Express.js, MongoDB, MySQL
