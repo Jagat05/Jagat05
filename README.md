@@ -26,7 +26,7 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
 - 💻 Final year B.Sc. CSIT Student at *Kailali Multiple Campus*
 - 🚀 Focused on **MERN stack** and modern web development
 - 🎨 Skilled in **Graphic Design** (logos, pamphlets, cards)
-- 🐾 Proud dog lover and productivity enthusiast
+- 🐾 When I’m not coding, I enjoy watching movies, working out, reading & listening to novels and inspiring books — and spending time with my dogs.
 
 ---
 
@@ -85,9 +85,10 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
 
 <div align="center">
 
-  <a href="mailto:joshijagaths@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:joshijagaths@gmail.com?subject=Hello%20Jagat&body=I%20loved%20your%20portfolio!" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   
   <a href="https://jagatjoshi.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
