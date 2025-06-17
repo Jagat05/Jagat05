@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;B.Sc.CSIT%20Final%20Year%20Student;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;B.Sc.CSIT%20Final%20Year%20Student;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true&cursor=|" alt="Typing SVG" />
+<br />
+
   <br />
 
   <!--  Coder GIF -->
@@ -105,7 +107,11 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
 
 <!-- Final coding GIF before the quote -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" width="500" alt="Final Coding Motivation" />
+<img
+  src="https://readme-typing-svg.demolab.com/?lines=Keep%20Coding%2C%20Keep%20Growing!&cursor=|&center=true&width=500&height=50&pause=1500&color=F7931E&vCenter=true"
+  alt="Keep Coding Keep Growing Typing Effect"
+/>
+
 </div>
 
 > 💬 *"Let's code something awesome together!"* 🚀
