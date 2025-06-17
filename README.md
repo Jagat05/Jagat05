@@ -5,7 +5,7 @@
   <br />
 
 
-<img src="https://cdn.dribbble.com/users/264642/screenshots/14222078/media/b34775f84a6ab89edaf508e5026f538a.gif" width="400" alt="Young coder with JS/React" />
+---
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif" />
   <div align="center">
