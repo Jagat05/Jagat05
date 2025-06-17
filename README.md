@@ -108,9 +108,11 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
 <!-- Final coding GIF before the quote -->
 <div align="center">
 <img
-  src="https://readme-typing-svg.demolab.com/?lines=Keep%20Coding%2C%20Keep%20Growing!&cursor=|&center=true&width=500&height=50&pause=1500&color=F7931E&vCenter=true"
+<img
+  src="https://readme-typing-svg.demolab.com/?lines=Keep%20Coding%2C%20Keep%20Growing!&cursor=true&center=true&width=500&height=50&pause=1500&color=F7931E&vCenter=true"
   alt="Keep Coding Keep Growing Typing Effect"
 />
+
 
 </div>
 
