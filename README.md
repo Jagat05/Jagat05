@@ -88,20 +88,33 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
   <a href="mailto:joshijagaths@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://jagatjoshi.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jagatjoshi" target="_blank">
+  
+  <a href="https://www.facebook.com/jagat.joshi.599334" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jagat-joshi-aa5b85221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/jagatjoshi_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  
+  <a href="https://www.instagram.com/jagatjoshi_02" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@JagatJoshi" target="_blank">
+
+  <a href="https://twitter.com/jagatjoshi_02" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@TechDaju222" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
 </div>
+
 
 ---
 
