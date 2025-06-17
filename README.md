@@ -1,24 +1,17 @@
-
-<div align="center">
 <div align="center">
 
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;B.Sc.CSIT%20Final%20Year%20Student;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true" alt="Typing SVG" />
   <br />
 
-  <img src="https://cdn.dribbble.com/users/264642/screenshots/14222078/media/b34775f84a6ab89edaf508e5026f538a.gif" width="400" alt="Young coder with JS/React" />
+  <!--  Coder GIF -->
+ <img src="https://res.cloudinary.com/dyuwfaom8/image/upload/v1750179056/codinggif_r3sejz.gif" width="400" alt="Jagat Coding GIF" />
 
+
+  <br /><br />
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jagatjoshi.readme" alt="visitor badge"/>
   </div>
-</div>
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;B.Sc.CSIT%20Final%20Year%20Student;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true" alt="Typing SVG" />
-  <br />
-
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif" />
-  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jagatjoshi.readme" alt="visitor badge"/>
-</div>
 </div>
 
 ---
@@ -110,7 +103,9 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
 
 ---
 
-
+<!-- Final coding GIF before the quote -->
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" width="500" alt="Final Coding Motivation" />
+</div>
 
 > 💬 *"Let's code something awesome together!"* 🚀
-
