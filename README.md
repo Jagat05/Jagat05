@@ -1,24 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="developer animation" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jagatjoshi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.youtube.com/@JagatJoshi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube Badge" />
-  </a>
-  <a href="https://twitter.com/jagatjoshi_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter Badge" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jagatjoshi.readme" alt="visitor badge"/>
 </div>
 
@@ -26,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;CSIT%20Final%20Year%20Student&center=true&width=500&height=50&color=F7931E&pause=1000" alt="Typing SVG" />
+ 
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
 </div>
@@ -108,8 +88,7 @@ I love building real-world applications that solve problems — combining clean 
 ---
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I%20am%20Jagat%20Joshi;Aspiring%20Full-Stack%20Developer;B.Sc.CSIT%20Final%20Year%20Student;MERN%20Stack%20Enthusiast;Graphic%20Designer%20&%20CSIT%20Final%20Year%20Student&center=true&width=650&height=45&pause=1000&color=F7931E&vCenter=true" alt="Typing SVG" />
   <br />
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif" />
