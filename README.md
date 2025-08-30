@@ -23,10 +23,11 @@
 Hi! I’m **Jagat Joshi**, a passionate and creative full-stack web developer from Nepal.  
 I love transforming ideas into real-world, impactful web apps using modern tech.
 
-- 💻 Final year B.Sc. CSIT Student at *Kailali Multiple Campus*
+- 🎓 **B.Sc. CSIT** from *Kailali Multiple Campus*
+- 🚀 Currently learning **Python & Django** 
 - 🚀 Focused on **MERN stack** and modern web development
 - 🎨 Skilled in **Graphic Design** (logos, pamphlets, cards)
-- 🐾 When I’m not coding, I enjoy watching movies, working out, reading & listening to novels and inspiring books — and spending time with my dogs.
+- 🐾 Outside coding, I enjoy movies, workouts, reading inspiring books, and spending time with my dogs  
 
 ---
 
@@ -52,7 +53,8 @@ I love transforming ideas into real-world, impactful web apps using modern tech.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <br /><br />
 
   <!-- Programming Languages -->
