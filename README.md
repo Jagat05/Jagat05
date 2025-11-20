@@ -23,8 +23,7 @@
 Hi! I’m **Jagat Joshi**, a passionate and creative full-stack web developer from Nepal.  
 I love transforming ideas into real-world, impactful web apps using modern tech.
 
-- 🎓 **B.Sc. CSIT** from *Kailali Multiple Campus*
-- 🚀 Currently learning **Python & Django** 
+- 🎓 Graduate **B.Sc. CSIT** from *Kailali Multiple Campus*
 - 🚀 Focused on **MERN stack** and modern web development
 - 🎨 Skilled in **Graphic Design** (logos, pamphlets, cards)
 - 🐾 Outside coding, I enjoy movies, workouts, reading inspiring books, and spending time with my dogs  
